@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="Images/pixel_cat.png" width="300" height="300">
+
 <!--
 **sarahbabar/sarahbabar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
