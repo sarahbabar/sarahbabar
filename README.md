@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-<img src="Images/pixel_cat.png" alt="cat" width="300" height="300">
+<div>
+    <img align=center src="https://stars.ncp.nathanferns.xyz/sarahbabar/image?bgcolor=ffc2de&titlecolor=000000&outline=000000&textcolor=000000" alt="sarahbabar"/>
+    <img align=center src="Images/pixel_kitten.png" width="135" height="auto" alt="cat"/>
+<div>
 
 <!--
 **sarahbabar/sarahbabar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
