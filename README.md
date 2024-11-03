@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I'm Sarah
 
+- My portfolio is available at [sarahbabar.com](https://sarahbabar.com/)
+- You can reach me at **sarah.babar19@gmail.com**
 <div>
     <img align=center src="https://stars.ncp.nathanferns.xyz/sarahbabar/image?bgcolor=ffc2de&titlecolor=000000&outline=000000&textcolor=000000" alt="sarahbabar"/>
     <img align=center src="Images/pixel_kitten.png" width="135" height="auto" alt="cat"/>
